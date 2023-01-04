@@ -1,0 +1,13 @@
+.form-control__inner label{
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 5px 0;
+}
+.form-control__inner input{
+    margin: 5px 0 10px;
+    width: 100%;
+    padding: 10px 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
